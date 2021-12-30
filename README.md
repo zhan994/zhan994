@@ -2,11 +2,14 @@
 
 A strong enthusiast for robotics, machine vision and AI.  
 
-## Programming Language:
+**Programming Language:**
+
 C/C++, Python
 
-## Software:
+**Software:**
+
 ROS
 
-## Library:
+**Library:**
+
 Pytorch, Tensorflow, OpenCV, PCL, Eigen, G2O, Ceres
