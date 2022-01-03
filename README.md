@@ -12,4 +12,4 @@ ROS
 
 **Library:**
 
-Pytorch, Tensorflow, OpenCV, PCL, Eigen, G2O, Ceres
+Pytorch, OpenCV, PCL, Eigen, G2O, Ceres
