@@ -8,7 +8,7 @@ C/C++, Python
 
 **Software:**
 
-ROS, Qt
+ROS
 
 **Library:**
 
