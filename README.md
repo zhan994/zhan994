@@ -6,10 +6,6 @@ A strong enthusiast for robotics, machine vision and AI.
 
 C/C++, Python
 
-**Software:**
+**Thirdparty:**
 
-ROS、Qt
-
-**Library:**
-
-Pytorch, OpenCV, PCL, Eigen, G2O, Ceres
+ROS2, Qt, Pytorch, OpenCV, PCL, Eigen, G2O, Ceres
