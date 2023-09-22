@@ -1,6 +1,6 @@
 ### Hi, 👋 I'm Zhihao Zhan
 
- - 🧑‍💻 An autonomous driving practitioners in Nanjing.
+ - 🧑‍💻 An autonomous driving practitioner in Nanjing.
  - I’m currently working on multi-sensor fusion SLAM.
 
 
