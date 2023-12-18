@@ -1,12 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
+
 ### Hi, 👋 I'm Zhihao Zhan
 
- - 🧑‍💻 An autonomous driving practitioner in Nanjing.
+ - 🧑‍💻 An autonomous driving practitioner in Nanjing China.
  - I’m currently working on multi-sensor fusion SLAM and image-based 3D reconstruction.
 
 
-### Interest 😮
-
-**LiDAR(Visual)-Inertial Odometry, SLAM, SFM, MVS**
+### :orange_book: Reasearch Interest 
+> 🔸 **SLAM** - Lidar SLAM, Lidar-inertial odometry, Visual SLAM, Visual-inertial odometry  
+> 🔸 **Computer Vision** - 3D reconstruction, NeRF, Gaussian Splatting, Object Detection, Segmentation, Depth estimation
 
   
 ### Skill 🛠
@@ -20,6 +22,7 @@
 ### More 🙂
 
 <a href="https://space.bilibili.com/295095276/"><img src="https://storage.live.com/items/B149F35319CAD365!2136?authkey=ANFgi5h3UzMEHv8" alt="Bilibili" width = "20"></a>
-<a href="https://blog.csdn.net/qq_39683777?spm=1000.2115.3001.5343"><img src="https://storage.live.com/items/B149F35319CAD365!2133?authkey=ANFgi5h3UzMEHv8" alt="CSDN" width = "20"></a>
 
 [![zhan994's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhan994&hide=prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
