@@ -6,7 +6,7 @@
  - I’m currently working on multi-sensor fusion SLAM and image-based 3D reconstruction.
 
 
-### :orange_book: Reasearch Interest 
+### Reasearch Interest :orange_book:
 > 🔸 **SLAM** - Lidar SLAM, Lidar-inertial odometry, Visual SLAM, Visual-inertial odometry  
 > 🔸 **Computer Vision** - 3D reconstruction, NeRF, Gaussian Splatting, Object Detection, Segmentation, Depth estimation
 
