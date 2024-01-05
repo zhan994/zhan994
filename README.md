@@ -7,6 +7,7 @@
 
 
 ### :orange_book: Reasearch Interest 
+
 > 🔸 **SLAM** - Lidar SLAM, Lidar-inertial odometry, Visual SLAM, Visual-inertial odometry  
 > 🔸 **Computer Vision** - 3D reconstruction, NeRF, Gaussian Splatting, Object Detection, Segmentation
 
@@ -19,12 +20,16 @@
 
 ---
 
-### 🙂 More 
+<div align=center>
+ 
+ <a href="https://space.bilibili.com/295095276/"><img src="https://storage.live.com/items/B149F35319CAD365!2136?authkey=ANFgi5h3UzMEHv8" alt="Bilibili" width = "20"></a>
 
-<a href="https://space.bilibili.com/295095276/"><img src="https://storage.live.com/items/B149F35319CAD365!2136?authkey=ANFgi5h3UzMEHv8" alt="Bilibili" width = "20"></a>
+</div>
 
 <div align=center>
+ 
  [![zhan994's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhan994&hide=prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
