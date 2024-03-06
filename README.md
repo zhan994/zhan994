@@ -5,8 +5,6 @@
  - 🧑‍💻 An autonomous driving practitioner in Nanjing, the capital of Jiangsu province in China.
  - I’m currently working on multi-sensor fusion SLAM and image-based 3D reconstruction.
 
-![snake](https://raw.githubusercontent.com/zhan994/zhan994/output/github-contribution-grid-snake.svg)
-
 
 ### :orange_book: Reasearch Interest 
 
@@ -20,6 +18,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+
+![snake](https://raw.githubusercontent.com/zhan994/zhan994/output/github-contribution-grid-snake.svg)
 
  
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
