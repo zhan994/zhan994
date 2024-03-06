@@ -1,4 +1,5 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
 
 ### Hi, 👋 I'm Zhihao Zhan <a href="https://space.bilibili.com/295095276/"><img src="https://storage.live.com/items/B149F35319CAD365!2136?authkey=ANFgi5h3UzMEHv8" alt="Bilibili" width = "20"></a>
 
@@ -31,3 +32,5 @@
  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhan994&layout=compact&langs_count=8"/>
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
