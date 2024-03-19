@@ -10,7 +10,7 @@
 ### :orange_book: Reasearch Interest 
 
 > 🔸 **SLAM** - Lidar SLAM, Lidar-inertial odometry, Visual SLAM, Visual-inertial odometry, Radar SLAM, Radar-inertial odometry  
-> 🔸 **Computer Vision** - 3D reconstruction, NeRF, Gaussian Splatting, Object Detection, Segmentation
+> 🔸 **Computer Vision** - 3D reconstruction, NeRF, Gaussian Splatting, Object Detection, Segmentation, Diffusion
 
 <div align="center">
  
