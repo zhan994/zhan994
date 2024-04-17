@@ -4,9 +4,6 @@
 - 🧑‍💻 An autonomous driving practitioner in Nanjing, the capital of Jiangsu province in China.
 - I’m currently working on multi-sensor fusion SLAM and image-based 3D reconstruction.
  
-![snake](https://raw.githubusercontent.com/zhan994/zhan994/output/github-contribution-grid-snake.svg)
-
-
 ### :orange_book: Reasearch Interest 
 
 > 🔸 **SLAM** - Lidar SLAM, Lidar-inertial odometry, Visual SLAM, Visual-inertial odometry, Radar SLAM, Radar-inertial odometry  
