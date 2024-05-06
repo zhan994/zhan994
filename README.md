@@ -22,7 +22,7 @@
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhan994&layout=compact&langs_count=8"/>
 
-  [![zhan994's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhan994&count_private=true&show_icons=true)](https://github.com/zhan994)
+  [![zhan994's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhan994&hide=prs&count_private=true&show_icons=true)](https://github.com/zhan994)
 
 </div>
 
