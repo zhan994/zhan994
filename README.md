@@ -6,8 +6,8 @@
  
 ### :orange_book: Reasearch Interest 
 
-> 🔸 **SLAM** - Lidar SLAM, Lidar-inertial odometry, Visual SLAM, Visual-inertial odometry, Radar SLAM, Radar-inertial odometry  
-> 🔸 **Computer Vision** - 3D reconstruction, NeRF, Gaussian Splatting, Object Detection, Segmentation, Diffusion
+- **SLAM**: Lidar SLAM, Lidar-inertial odometry, Visual SLAM, Visual-inertial odometry, Radar SLAM, Radar-inertial odometry  
+- **Computer Vision**: 3D reconstruction, NeRF, Gaussian Splatting, Object Detection, Segmentation, Diffusion
 
 <div align="center">
  
@@ -18,12 +18,7 @@
 
 </div>
 
-<div align="center">
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhan994&layout=compact&langs_count=8"/>
-
-  [![zhan994's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhan994&hide=prs&count_private=true&show_icons=true)](https://github.com/zhan994)
-
-</div>
+|<a href="https://github.com/zhan994"><img align="left" src="https://github-readme-stats.vercel.app/api?username=zhan994&hide=prs&count_private=true&show_icons=true&hide_border=true" /></a>|<a href="https://github.com/zhan994"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhan994&layout=compact&langs_count=8&hide_border=true" /></a>|
+|  :---:  |  ---:  |
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=100)
