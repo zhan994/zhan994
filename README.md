@@ -29,9 +29,6 @@
 - Received a B.Eng degree in Electronic Information Engineering at the Nanjing Tech University, CN (2015 - 2019)
 
 
-</div>
-
-|<a href="https://github.com/zhan994"><img align="left" src="https://github-readme-stats.vercel.app/api?username=zhan994&hide=prs&count_private=true&show_icons=true&hide_border=true" /></a>|<a href="https://github.com/zhan994"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhan994&layout=compact&langs_count=8&hide_border=true" /></a>|
-|  :---:  |  ---:  |
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhan994&count_private=true&hide_title=true&hide_border=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhan994&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 ![profile_view_counter](https://komarev.com/ghpvc/?username=zhan994)
