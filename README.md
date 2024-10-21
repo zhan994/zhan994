@@ -16,8 +16,7 @@
   - Radar SLAM, Radar-inertial odometry 
 - **Computer Vision**
   - 3D reconstruction, NeRF, Gaussian Splatting
-  - Object Detection
-  - Segmentation
+  - Object Detection, Segmentation
   - Image/Video Super Resolution
   - Diffusion
 
