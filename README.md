@@ -25,7 +25,7 @@
 - Senior Algorithm Engineer at Nanjing Lingque Technology Ltd., CN (2022 - 2023)
 - Algorithm Engineer at Nanjing Chiebot Robotics Ltd., CN (2020 - 2022)
 - Received a M.Sc degree in Multimedia Information Technology at City University of Hong Kong, HK (2019 - 2020)
-- Received a B.Eng degree in Electronic Information Engineering at the Nanjing Tech University, CN (2015 - 2019)
+- Received a B.Eng degree in Electronic Information Engineering at Nanjing Tech University, CN (2015 - 2019)
 
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhan994&count_private=true&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhan994&hide_title=true&hide_border=true&layout=compact&theme=graywhite" />
