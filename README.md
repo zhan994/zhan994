@@ -21,7 +21,7 @@
   - Diffusion
 
 ## 🔭 Careers
-- Senior Algorithm Engineer, Tech Lead at TOPXGUN (Nanjing) Robotics Ltd., CN (2023 - **PRESENT**)
+- Senior Algorithm Engineer, Tech Lead at TopXGun (Nanjing) Robotics Ltd., CN (2023 - **PRESENT**)
 - Senior Algorithm Engineer at Nanjing Lingque Technology Ltd., CN (2022 - 2023)
 - Algorithm Engineer at Nanjing Chiebot Robotics Ltd., CN (2020 - 2022)
 - Received a M.Sc degree in Multimedia Information Technology at City University of Hong Kong, HK (2019 - 2020)
