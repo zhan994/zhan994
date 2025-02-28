@@ -21,7 +21,7 @@
   - Diffusion
 
 ## 🔭 Careers
-- Robotics Algorithm Leader at TopXGun (Nanjing) Robotics Ltd., CN (2025 - **PRESENT**)
+- Autonomous Driving Algorithm Leader at TopXGun (Nanjing) Robotics Ltd., CN (2025 - **PRESENT**)
 - Senior Algorithm Engineer, Tech Lead at TopXGun (Nanjing) Robotics Ltd., CN (2023 - 2025)
 - Senior Algorithm Engineer at Nanjing Lingque Technology Ltd., CN (2022 - 2023)
 - Algorithm Engineer at Nanjing Chiebot Robotics Ltd., CN (2020 - 2022)
