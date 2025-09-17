@@ -27,14 +27,13 @@
 </div>
 
 <div align="center">
-
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
-
 </div>
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhan994&count_private=true&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhan994&hide_title=true&hide_border=true&layout=compact&theme=graywhite" />
-
+<div align="center">
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhan994&count_private=true&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite" />
+</div>
 
