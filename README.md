@@ -33,7 +33,4 @@
  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
 </div>
 
-<div align="center">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhan994&count_private=true&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite" />
-</div>
-
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhan994&count_private=true&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhan994&hide_title=true&hide_border=true&layout=compact&theme=graywhite" />
