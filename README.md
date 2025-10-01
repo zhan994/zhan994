@@ -27,12 +27,18 @@
 </div>
 
 <div align="center">
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/PyTorch-E34F26?logo=pytorch&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/MATLAB-FF452F?logo=Mathworks&logoColor=white"/></a>&nbsp 
+    <br>
+    <a href="https://zhan994.github.io/"><img src="https://img.shields.io/badge/Website-black?logo=github&logoColor=white"/></a>&nbsp
+    <a href="https://scholar.google.com/citations?user=GEcK0R4AAAAJ&hl"><img src="https://img.shields.io/badge/Scholar-4B83E3?logo=google-scholar&logoColor=white"/></a>&nbsp
+    <a href="https://www.linkedin.com/in/zhan994/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white"/></a>&nbsp
 </div>
 
 <div align="center">
-  <img align="" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhan994&count_private=true&hide_title=true&line_height=21" />
+    <img align="" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhan994&count_private=true&hide_title=true&line_height=21" />
 </div>
