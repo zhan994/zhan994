@@ -41,5 +41,6 @@
 </div>
 
 <div align="center">
-    <img align="" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhan994&count_private=true&hide_title=true&line_height=21"/>
+    <img align="" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhan994&theme=vue&count_private=true&hide_title=true&line_height=21"/>
+    <img align="" height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=zhan994&theme=github-light&hide_border=false"/>
 </div>
