@@ -34,14 +34,14 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/C/C++-00599C?logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-E34F26?logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/MATLAB-FF452F?logo=Mathworks&logoColor=white"/>
 </div>
 
 <div align="center">
-    <img align="" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhan994&theme=vue&count_private=true&hide_title=true&line_height=21"/>
+    <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhan994&theme=vue&count_private=true&hide_title=true&line_height=21"/>
 </div>
 
 <div align="center">
