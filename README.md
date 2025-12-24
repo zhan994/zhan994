@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-    <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=zhan994&theme=vue&count_private=true&hide_title=true&line_height=21"/>
+    <img align="" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhan994&theme=vue&count_private=true&hide_title=true&line_height=21"/>
 </div>
 
 <div align="center">
