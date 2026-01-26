@@ -16,7 +16,18 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>    
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C/C++-00599C?logo=C%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-E34F26?logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MATLAB-FF452F?logo=Mathworks&logoColor=white"/>
+</div>
+
+<div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
@@ -32,18 +43,10 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C/C++-00599C?logo=C%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-E34F26?logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MATLAB-FF452F?logo=Mathworks&logoColor=white"/>
-</div>
-
-<div align="center">
+<!-- <div align="center">
     <img align="" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhan994&theme=vue&count_private=true&hide_title=true&line_height=21"/>
 </div>
 
 <div align="center">
      <img align="" height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=zhan994&theme=github-light&hide_border=false"/>
-</div>
+</div> -->
