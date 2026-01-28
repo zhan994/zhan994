@@ -1,9 +1,7 @@
-![profile_view_counter](https://komarev.com/ghpvc/?username=zhan994) 
-
 <div align="center">
     <a href="https://zhan994.github.io/"><img src="https://img.shields.io/badge/Website-black?logo=github&logoColor=white"/></a>
     <a href="https://scholar.google.com/citations?user=GEcK0R4AAAAJ&hl"><img src="https://img.shields.io/badge/Scholar-4B83E3?logo=google-scholar&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/zhan994/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/zhan994/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white"/></a> 
 </div>
 
 <div align="center">
@@ -43,10 +41,15 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-<!-- <div align="center">
-    <img align="" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhan994&theme=vue&count_private=true&hide_title=true&line_height=21"/>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=zhan994" alt="profile_view_counter" />
 </div>
 
 <div align="center">
+    <img align="" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhan994&theme=vue&count_private=true&hide_title=true&line_height=21"/>
+</div>
+
+
+<!-- <div align="center">
      <img align="" height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=zhan994&theme=github-light&hide_border=false"/>
 </div> -->
