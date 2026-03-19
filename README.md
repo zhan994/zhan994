@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-    <img align="" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhan994&theme=vue&count_private=true&hide_title=true&line_height=21"/>
+    <img align="" height="137px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhan994&theme=vue&show_icons=true&hide_title=true&line_height=21&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 </div>
 
 
