@@ -18,14 +18,6 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C/C++-00599C?logo=C%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-E34F26?logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MATLAB-FF452F?logo=Mathworks&logoColor=white"/>
-</div>
-
-<div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
@@ -43,7 +35,13 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=zhan994" alt="profile_view_counter" />
+    <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C/C++-00599C?logo=C%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-E34F26?logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MATLAB-FF452F?logo=Mathworks&logoColor=white"/>
 </div>
+
 
 <div align="center">
     <img align="" height="137px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhan994&theme=vue&show_icons=true&hide_title=true&line_height=21&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
