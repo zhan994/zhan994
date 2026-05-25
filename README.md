@@ -41,7 +41,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C/C++-00599C?logo=C%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ROS1/2-22314E?logo=ROS&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-E34F26?logo=pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/MATLAB-FF452F?logo=Mathworks&logoColor=white"/>
 </div>
