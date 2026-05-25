@@ -7,7 +7,7 @@
 
 <div align="left">
     <a href="https://zhan994.github.io/"><img src="https://img.shields.io/badge/Homepage-zhan994.github.io-8b5cf6?style=flat-square"/></a>
-    <a href="https://github.com/zhan994"><img src="https://img.shields.io/badge/GitHub-zhan994-111827?style=flat-square&logo=github"/></a>
+    <!-- <a href="https://github.com/zhan994"><img src="https://img.shields.io/badge/GitHub-zhan994-111827?style=flat-square&logo=github"/></a> -->
     <a href="https://scholar.google.com/citations?user=GEcK0R4AAAAJ&hl"><img src="https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/zhan994/"><img src="https://img.shields.io/badge/LinkedIn-zhan994-blue?logo=Linkedin&logoColor=white"/></a> 
 </div>
