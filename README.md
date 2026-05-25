@@ -1,4 +1,4 @@
-# Hi, I'm Zhihao 👋
+## Hi, I'm Zhihao 👋
 
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=zhan994" alt="profile_view_counter" />
