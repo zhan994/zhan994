@@ -36,6 +36,15 @@
 </div>
 
 <div align="left">
+    <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C/C++-00599C?logo=C%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ROS1/2-22314E?logo=ROS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-E34F26?logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white"/>
+</div>
+
+<div align="left">
     <img src="./slam_ba.svg?v=1" width="25%" alt="Animated SLAM card" />
     <img height="200px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhan994&show_icons=true&hide_title=true&line_height=21&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 </div>
@@ -64,15 +73,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
-
-<div align="left">
-    <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C/C++-00599C?logo=C%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ROS1/2-22314E?logo=ROS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-E34F26?logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white"/>
 </div>
 
 
