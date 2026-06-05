@@ -24,7 +24,7 @@
 </div>
 
 <div align="left">
-    <img src="./slam_ba.svg?v=1" width="35%" alt="Animated SLAM card" />
+    <img src="./slam_ba.svg?v=1" width="40%" alt="Animated SLAM card" />
 </div>
 
 <div align="left">
