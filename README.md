@@ -21,6 +21,13 @@
     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+</div>
+
+<div align="left">
+    <img src="./slam_ba.svg?v=1" width="35%" alt="Animated SLAM card" />
+</div>
+
+<div align="left">
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
@@ -46,8 +53,8 @@
 
 
 <div align="left">
-    <img width="500px" height="150px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhan994&theme=vue&show_icons=true&hide_title=true&line_height=21&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-    <img src="./slam_ba.svg?v=1" width="25%" alt="Animated SLAM card" />
+    <img width="500px" height="140px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhan994&show_icons=true&hide_title=true&line_height=21&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+    
 </div>
 
 
