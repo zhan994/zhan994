@@ -46,7 +46,8 @@
 
 
 <div align="left">
-    <img align="" height="137px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhan994&theme=vue&show_icons=true&hide_title=true&line_height=21&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+    <img width="500px" height="150px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhan994&theme=vue&show_icons=true&hide_title=true&line_height=21&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+    <img src="./slam_ba.svg?v=1" width="25%" alt="Animated SLAM card" />
 </div>
 
 
