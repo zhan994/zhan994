@@ -45,7 +45,10 @@
 </div>
 
 <div align="center">
-    <img src="./slam_ba.svg?v=1" width="25%" alt="Animated SLAM card" />
+    <img src="./slam_ba.svg?v=1" width="30%" alt="Animated SLAM card" />
+</div>
+
+<div align="center">
     <img height="200px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhan994&show_icons=true&hide_title=true&line_height=21&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 </div>
 
