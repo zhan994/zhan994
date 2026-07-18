@@ -1,6 +1,10 @@
 ## Hi, I'm Zhihao 👋
 
 <div align="center">
+    <img src="./slam_ba.svg?v=1" width="30%" alt="Animated SLAM card" />
+</div>
+
+<div align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C/C++-00599C?logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/ROS1/2-22314E?logo=ROS&logoColor=white"/>
@@ -16,10 +20,6 @@
     <!-- <a href="https://github.com/zhan994"><img src="https://img.shields.io/badge/GitHub-zhan994-111827?style=flat-square&logo=github"/></a> -->
     <a href="https://scholar.google.com/citations?user=GEcK0R4AAAAJ&hl"><img src="https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/zhan994/"><img src="https://img.shields.io/badge/LinkedIn-zhan994-blue?logo=Linkedin&logoColor=white"/></a> 
-</div>
-
-<div align="center">
-    <img src="./slam_ba.svg?v=1" width="30%" alt="Animated SLAM card" />
 </div>
 
 <div align="center">
