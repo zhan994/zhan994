@@ -8,9 +8,9 @@
     <a href="https://www.linkedin.com/in/zhan994/"><img src="https://img.shields.io/badge/LinkedIn-zhan994-blue?logo=Linkedin&logoColor=white"/></a> 
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img src="./slam_ba.svg?v=1" width="30%" alt="Animated SLAM card" />
-</div>
+</div> -->
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-    <img height="200px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhan994&show_icons=true&hide_title=true&line_height=21&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+    <img height="200px" src="https://github-readme-stats-one-bice.vercel.app/api?username=zhan994&theme=vue&show_icons=true&hide_title=true&line_height=21&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
 </div>
 
 <div align="center">
@@ -52,6 +52,6 @@
 </div>
 
 
-<!-- <div align="center">
+<div align="center">
      <img align="" height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=zhan994&theme=github-light&hide_border=false"/>
-</div> -->
+</div>
